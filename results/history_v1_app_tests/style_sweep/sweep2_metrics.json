@@ -1,0 +1,80 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "watercolor__prefix_default": {
+      "clip_text_target": 22.975601255893707,
+      "clip_directional": -0.029172491282224655,
+      "clip_frame_consistency": 98.84202480316162,
+      "warp_error": 2.378305569884805,
+      "background_psnr_db": 25.557476259548952,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__prefix_loose_g12": {
+      "clip_text_target": 25.296753644943237,
+      "clip_directional": 0.050104424357414246,
+      "clip_frame_consistency": 98.51101040840149,
+      "warp_error": 2.7663533307572075,
+      "background_psnr_db": 22.59500839032285,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__prefix_loose_npi_g12": {
+      "clip_text_target": 26.886898279190063,
+      "clip_directional": 0.24630945920944214,
+      "clip_frame_consistency": 96.96352481842041,
+      "warp_error": 11.627851962181342,
+      "background_psnr_db": 18.174842058083684,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__prefix_looser_g12": {
+      "clip_text_target": 30.430465936660767,
+      "clip_directional": 0.2523389458656311,
+      "clip_frame_consistency": 98.81055951118469,
+      "warp_error": 6.332277307748013,
+      "background_psnr_db": 17.406039287812614,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__prefix_default": {
+      "clip_text_target": 25.27027428150177,
+      "clip_directional": 0.05719489976763725,
+      "clip_frame_consistency": 98.36539030075073,
+      "warp_error": 3.2987106879656345,
+      "background_psnr_db": 21.976233359475227,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__prefix_loose_g12": {
+      "clip_text_target": 30.694562196731567,
+      "clip_directional": 0.25803273916244507,
+      "clip_frame_consistency": 98.60464334487915,
+      "warp_error": 10.769888816701913,
+      "background_psnr_db": 16.750225668897315,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__prefix_loose_npi_g12": {
+      "clip_text_target": 28.415554761886597,
+      "clip_directional": 0.2516024708747864,
+      "clip_frame_consistency": 98.50214719772339,
+      "warp_error": 20.132792731573964,
+      "background_psnr_db": 15.984762952332538,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__prefix_looser_g12": {
+      "clip_text_target": 30.476123094558716,
+      "clip_directional": 0.23603636026382446,
+      "clip_frame_consistency": 97.42231965065002,
+      "warp_error": 15.805970770990294,
+      "background_psnr_db": 13.398033193370171,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 99.5274543762207,
+  "source_warp_error": 1.7260638650839228,
+  "source_foreground_hue_deg": null
+}

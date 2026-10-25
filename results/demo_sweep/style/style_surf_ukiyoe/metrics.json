@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "style_surf_ukiyoe": {
+      "clip_text_target": 28.844040632247925,
+      "clip_directional": 0.1726546287536621,
+      "clip_frame_consistency": 94.49543952941895,
+      "warp_error": 22.70843893057555,
+      "background_psnr_db": 16.96638472475306,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 97.45196104049683,
+  "source_warp_error": 15.17526365819205,
+  "source_foreground_hue_deg": null
+}

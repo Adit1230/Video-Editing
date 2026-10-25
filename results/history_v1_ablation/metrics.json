@@ -1,0 +1,71 @@
+{
+  "shared_foreground_fraction": 0.32989025115966797,
+  "runs": {
+    "improved": {
+      "clip_text_target": 31.081804633140564,
+      "clip_directional": 0.32697242498397827,
+      "clip_frame_consistency": 98.60306978225708,
+      "warp_error": 2.2974728577346006,
+      "background_psnr_db": 37.51913568226278,
+      "foreground_change": 17.773341716895768,
+      "foreground_hue_deg": 35.82102770607859
+    },
+    "improved_no_latent_blend": {
+      "clip_text_target": 30.949193239212036,
+      "clip_directional": 0.3313562572002411,
+      "clip_frame_consistency": 98.91257286071777,
+      "warp_error": 2.2382458045181797,
+      "background_psnr_db": 28.395610918072553,
+      "foreground_change": 22.994095370249916,
+      "foreground_hue_deg": 53.26526643203531
+    },
+    "improved_no_negprompt_inversion": {
+      "clip_text_target": 29.80644404888153,
+      "clip_directional": 0.26873987913131714,
+      "clip_frame_consistency": 99.05362725257874,
+      "warp_error": 2.415931931942724,
+      "background_psnr_db": 37.48407792354198,
+      "foreground_change": 18.279554707563033,
+      "foreground_hue_deg": 31.520970749514312
+    },
+    "improved_original_fusion": {
+      "clip_text_target": 28.873533010482788,
+      "clip_directional": 0.2790029048919678,
+      "clip_frame_consistency": 98.89435768127441,
+      "warp_error": 2.525891676861292,
+      "background_psnr_db": 37.48348265465263,
+      "foreground_change": 19.109095201615037,
+      "foreground_hue_deg": 36.156504035750345
+    },
+    "improved_original_architecture": {
+      "clip_text_target": 30.553707480430603,
+      "clip_directional": 0.3344852924346924,
+      "clip_frame_consistency": 98.15612435340881,
+      "warp_error": 2.482814758478553,
+      "background_psnr_db": 37.495191590465325,
+      "foreground_change": 17.639104982437892,
+      "foreground_hue_deg": 36.197787547613956
+    },
+    "original": {
+      "clip_text_target": 22.07004278898239,
+      "clip_directional": 0.17208440601825714,
+      "clip_frame_consistency": 98.77384901046753,
+      "warp_error": 3.5196102805759026,
+      "background_psnr_db": 25.806271114967743,
+      "foreground_change": 24.71932892955398,
+      "foreground_hue_deg": 53.978696215739895
+    },
+    "original_new_prompts": {
+      "clip_text_target": 29.48089838027954,
+      "clip_directional": 0.23775218427181244,
+      "clip_frame_consistency": 99.22104477882385,
+      "warp_error": 2.4980515979046687,
+      "background_psnr_db": 27.626130687618712,
+      "foreground_change": 24.822923261494882,
+      "foreground_hue_deg": 50.93526842192627
+    }
+  },
+  "source_clip_frame_consistency": 99.5274543762207,
+  "source_warp_error": 1.7260638650839228,
+  "source_foreground_hue_deg": 28.271435963903166
+}

@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.54132080078125,
+  "runs": {
+    "object_fox_wolf": {
+      "clip_text_target": 23.851284384727478,
+      "clip_directional": 0.2798251509666443,
+      "clip_frame_consistency": 92.7344560623169,
+      "warp_error": 21.858428731093664,
+      "background_psnr_db": 33.254611262465595,
+      "foreground_change": 51.9768899513177,
+      "foreground_hue_deg": 275.2707986380397
+    }
+  },
+  "source_clip_frame_consistency": 95.45002579689026,
+  "source_warp_error": 11.130157362102981,
+  "source_foreground_hue_deg": 218.59303206384214
+}

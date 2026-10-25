@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.6972742080688477,
+  "runs": {
+    "texture_duck_rubber__sam": {
+      "clip_text_target": 27.580922842025757,
+      "clip_directional": 0.1948612928390503,
+      "clip_frame_consistency": 94.62511539459229,
+      "warp_error": 12.82885320902618,
+      "background_psnr_db": 29.259587266657377,
+      "foreground_change": 35.486939468712706,
+      "foreground_hue_deg": 22.297360987421932
+    }
+  },
+  "source_clip_frame_consistency": 97.88655042648315,
+  "source_warp_error": 7.7489940258627446,
+  "source_foreground_hue_deg": 26.39558614439221
+}

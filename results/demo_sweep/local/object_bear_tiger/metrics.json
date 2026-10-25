@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.3940620422363281,
+  "runs": {
+    "object_bear_tiger": {
+      "clip_text_target": 23.867973685264587,
+      "clip_directional": 0.4187127351760864,
+      "clip_frame_consistency": 97.43095636367798,
+      "warp_error": 17.548313621582075,
+      "background_psnr_db": 24.619606584502215,
+      "foreground_change": 47.46913671600663,
+      "foreground_hue_deg": 20.311989362559856
+    }
+  },
+  "source_clip_frame_consistency": 98.59393239021301,
+  "source_warp_error": 5.220040367299447,
+  "source_foreground_hue_deg": 21.135757453065043
+}

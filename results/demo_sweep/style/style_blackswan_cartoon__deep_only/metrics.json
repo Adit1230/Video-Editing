@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "style_blackswan_cartoon__deep_only": {
+      "clip_text_target": 22.019678354263306,
+      "clip_directional": 0.19037780165672302,
+      "clip_frame_consistency": 95.43808102607727,
+      "warp_error": 11.248115210071974,
+      "background_psnr_db": 16.809771457113257,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 99.17954206466675,
+  "source_warp_error": 7.197492754873496,
+  "source_foreground_hue_deg": null
+}

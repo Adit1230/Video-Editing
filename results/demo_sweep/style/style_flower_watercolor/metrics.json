@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "style_flower_watercolor": {
+      "clip_text_target": 27.40001678466797,
+      "clip_directional": 0.25768646597862244,
+      "clip_frame_consistency": 96.19253277778625,
+      "warp_error": 11.588352584790552,
+      "background_psnr_db": 18.36532758847448,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 99.5274543762207,
+  "source_warp_error": 1.7260638650839228,
+  "source_foreground_hue_deg": null
+}

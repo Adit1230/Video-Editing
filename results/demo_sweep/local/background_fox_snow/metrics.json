@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 1.0,
+  "runs": {
+    "background_fox_snow": {
+      "clip_text_target": 27.980011701583862,
+      "clip_directional": 0.10393854975700378,
+      "clip_frame_consistency": 93.93528699874878,
+      "warp_error": 15.711166996092718,
+      "background_psnr_db": NaN,
+      "foreground_change": 29.379670461018886,
+      "foreground_hue_deg": 225.16834436051965
+    }
+  },
+  "source_clip_frame_consistency": 95.45002579689026,
+  "source_warp_error": 11.130157362102981,
+  "source_foreground_hue_deg": 349.6184977460932
+}

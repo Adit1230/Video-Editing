@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "style_rabbit_pokemon": {
+      "clip_text_target": 31.972473859786987,
+      "clip_directional": 0.17362652719020844,
+      "clip_frame_consistency": 92.09036827087402,
+      "warp_error": 7.418011831500704,
+      "background_psnr_db": 18.120190210828973,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 99.57162737846375,
+  "source_warp_error": 2.2189367044857673,
+  "source_foreground_hue_deg": null
+}

@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.42581701278686523,
+  "runs": {
+    "object_rabbit_oranges": {
+      "clip_text_target": 32.39177465438843,
+      "clip_directional": 0.38068312406539917,
+      "clip_frame_consistency": 97.35007286071777,
+      "warp_error": 6.3028587492404995,
+      "background_psnr_db": 32.24645670981262,
+      "foreground_change": 30.054322188861825,
+      "foreground_hue_deg": 27.023417569597893
+    }
+  },
+  "source_clip_frame_consistency": 97.91505336761475,
+  "source_warp_error": 5.63360654420084,
+  "source_foreground_hue_deg": 18.68961814825118
+}

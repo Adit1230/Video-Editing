@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.43251848220825195,
+  "runs": {
+    "colour_flower_blue": {
+      "clip_text_target": 28.78810167312622,
+      "clip_directional": 0.3131304085254669,
+      "clip_frame_consistency": 98.16806316375732,
+      "warp_error": 2.4364064824225657,
+      "background_psnr_db": 36.3141734390713,
+      "foreground_change": 16.91044207301024,
+      "foreground_hue_deg": 36.18383723322527
+    }
+  },
+  "source_clip_frame_consistency": 99.5274543762207,
+  "source_warp_error": 1.7260638650839228,
+  "source_foreground_hue_deg": 28.942662571131134
+}

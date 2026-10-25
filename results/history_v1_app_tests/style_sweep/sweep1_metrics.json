@@ -1,0 +1,98 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "watercolor__app_default": {
+      "clip_text_target": 26.18257701396942,
+      "clip_directional": 0.03380521014332771,
+      "clip_frame_consistency": 99.06233549118042,
+      "warp_error": 2.8262638963885895,
+      "background_psnr_db": 31.41851056780714,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__no_npi": {
+      "clip_text_target": 27.5188148021698,
+      "clip_directional": -0.026528403162956238,
+      "clip_frame_consistency": 99.42976236343384,
+      "warp_error": 2.150574867791627,
+      "background_psnr_db": 24.234944356783284,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__loose_no_npi": {
+      "clip_text_target": 28.7342369556427,
+      "clip_directional": 0.010561246424913406,
+      "clip_frame_consistency": 99.18778538703918,
+      "warp_error": 2.264759455973236,
+      "background_psnr_db": 23.302518556980818,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__looser_no_npi_g10": {
+      "clip_text_target": 27.623173594474792,
+      "clip_directional": 0.020294085144996643,
+      "clip_frame_consistency": 99.24461841583252,
+      "warp_error": 2.6834914923534177,
+      "background_psnr_db": 20.95621703559455,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "watercolor__loose_npi_g10": {
+      "clip_text_target": 29.704195261001587,
+      "clip_directional": 0.1998225748538971,
+      "clip_frame_consistency": 98.52845668792725,
+      "warp_error": 4.632773206873489,
+      "background_psnr_db": 26.382538579817393,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__app_default": {
+      "clip_text_target": 26.714247465133667,
+      "clip_directional": -0.011288341134786606,
+      "clip_frame_consistency": 98.57662916183472,
+      "warp_error": 2.4245631675529706,
+      "background_psnr_db": 31.61028235950959,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__no_npi": {
+      "clip_text_target": 29.224827885627747,
+      "clip_directional": 0.0010433977004140615,
+      "clip_frame_consistency": 99.43108558654785,
+      "warp_error": 2.0450121745452905,
+      "background_psnr_db": 23.78494268383323,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__loose_no_npi": {
+      "clip_text_target": 30.002468824386597,
+      "clip_directional": 0.008035563863813877,
+      "clip_frame_consistency": 99.42525029182434,
+      "warp_error": 2.066579984308184,
+      "background_psnr_db": 22.887398980653124,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__looser_no_npi_g10": {
+      "clip_text_target": 29.22462224960327,
+      "clip_directional": -0.01413927786052227,
+      "clip_frame_consistency": 99.34276342391968,
+      "warp_error": 2.3103231586797084,
+      "background_psnr_db": 21.327697896333014,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    },
+    "vangogh__loose_npi_g10": {
+      "clip_text_target": 30.067598819732666,
+      "clip_directional": 0.06380760669708252,
+      "clip_frame_consistency": 98.11570644378662,
+      "warp_error": 2.7789985606437617,
+      "background_psnr_db": 28.06577754378683,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 99.5274543762207,
+  "source_warp_error": 1.7260638650839228,
+  "source_foreground_hue_deg": null
+}

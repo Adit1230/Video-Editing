@@ -1,0 +1,102 @@
+{
+  "config": {
+    "video_path": "",
+    "source_prompt": "a red flower bud on a green stem with purple-edged leaves, blurred garden background",
+    "target_prompt": "a blue flower bud on a green stem with purple-edged leaves, blurred garden background",
+    "model_id": "CompVis/stable-diffusion-v1-4",
+    "model_revision": "2880f2ca379f41b0226444936bb7a6766a227587",
+    "model_path": "",
+    "frames": 8,
+    "size": 512,
+    "steps": 30,
+    "start_frame": 0,
+    "frame_stride": 3,
+    "input_fps": null,
+    "guidance": 7.5,
+    "self_replace": 0.7,
+    "cross_replace": 0.5,
+    "replace_controller": false,
+    "blend_words": null,
+    "blend_threshold": [
+      0.3,
+      0.3
+    ],
+    "negative_prompt": "",
+    "seed": 0,
+    "reconstruct": true,
+    "keep_cache": false,
+    "reuse_cache": true,
+    "output_dir": "/kaggle/working/runs/improved_original_architecture",
+    "cache_path": "/tmp/video_editing_attention_cache",
+    "video_url": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+    "clip_seconds": 1.0,
+    "download_dir": "/tmp/video_editing_downloads",
+    "max_download_mb": 1024,
+    "edit_words": [
+      "flower",
+      "bud"
+    ],
+    "mask_threshold": 0.3,
+    "inversion_method": "fixed_point",
+    "inversion_iterations": 3,
+    "inversion_relaxation": 1.0,
+    "sparse_least_channel": 640,
+    "zero_temporal_bias": false,
+    "negative_prompt_inversion": true,
+    "latent_blend": true,
+    "blend_fraction": 1.0,
+    "blend_dilate": 1,
+    "resolved_model_signature": [
+      [
+        "/tmp/video_editing_runtime/huggingface/hub/models--CompVis--stable-diffusion-v1-4/blobs/d98edd280d5e040ee77f5802b8e3be3513de757335d1dedc4e495647e7c2d573",
+        1719312805,
+        1792758320818831502
+      ],
+      [
+        "/tmp/video_editing_runtime/huggingface/hub/models--CompVis--stable-diffusion-v1-4/blobs/51c8904bc921e1e6f354b5fa8e99a1c82ead2f0540114de21557b8abfbb24ad0",
+        167399505,
+        1792758302729077672
+      ],
+      [
+        "/tmp/video_editing_runtime/huggingface/hub/models--CompVis--stable-diffusion-v1-4/blobs/88bd85efb0f84e70521633f578715afb2873db4f2615fdfb1f66e99934715865",
+        246184375,
+        1792758303041107924
+      ]
+    ]
+  },
+  "implementation": "independent-fatezero-fixed-point-v2",
+  "architecture": {
+    "temporal_conv_rank": 160,
+    "sparse_reference": "middle",
+    "least_sc_channel": 640,
+    "zero_temporal_bias": false
+  },
+  "unet_calls": 150,
+  "unet_device": "cuda:0",
+  "attention_stats": {
+    "stored_layers": 660,
+    "fused_self_layers": 231,
+    "fused_cross_layers": 165
+  },
+  "fps": 8.267594474491027,
+  "source_frame_indices": [
+    0,
+    3,
+    7,
+    10,
+    14,
+    18,
+    21,
+    25
+  ],
+  "runtime_seconds": 301.92271757125854,
+  "peak_gpu_GiB": 3.679720878601074,
+  "cache_key": "0f3355ecc67c12509ead",
+  "comparison_order": [
+    "source",
+    "reconstruction",
+    "edit"
+  ],
+  "edit_mean_absolute_pixel_change": 7.507866541544596,
+  "reconstruction_psnr_db": 35.542791164565195
+}

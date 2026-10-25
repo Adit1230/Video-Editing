@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Colour: black kitten → ginger kitten",
+    "video": "colour_cat_ginger__sam.mp4",
+    "caption": "instruction: “change black to ginger” · CLIP text 25.9 · direction 0.12 · warp error 10.6 (original 10.5) · background PSNR 37.1 dB · Grounded-SAM 2 mask"
+  },
+  {
+    "title": "Colour: red bud → blue bud",
+    "video": "colour_flower_blue.mp4",
+    "caption": "instruction: “change red to blue” · CLIP text 28.8 · direction 0.31 · warp error 2.4 (original 1.7) · background PSNR 36.3 dB · attention mask"
+  },
+  {
+    "title": "Texture: white duck → yellow rubber duck",
+    "video": "texture_duck_rubber.mp4",
+    "caption": "instruction: “turn the duck into a yellow rubber duck” · CLIP text 28.9 · direction 0.17 · warp error 13.4 (original 7.7) · background PSNR 27.8 dB · attention mask"
+  },
+  {
+    "title": "Texture: black swan → Swarovski crystal swan",
+    "video": "texture_swan_crystal__sam.mp4",
+    "caption": "instruction: “turn the swan into a Swarovski crystal swan” · CLIP text 28.0 · direction 0.34 · warp error 20.8 (original 20.0) · background PSNR 27.6 dB · Grounded-SAM 2 mask"
+  },
+  {
+    "title": "Object: bear → tiger",
+    "video": "object_bear_tiger__sam.mp4",
+    "caption": "instruction: “replace the bear with a tiger” · CLIP text 23.9 · direction 0.43 · warp error 16.3 (original 5.2) · background PSNR 25.3 dB · Grounded-SAM 2 mask"
+  },
+  {
+    "title": "Object: carrot → eggplant",
+    "video": "object_squirrel_eggplant__sam.mp4",
+    "caption": "instruction: “replace the carrot with an eggplant” · CLIP text 30.5 · direction 0.26 · warp error 5.8 (original 5.0) · background PSNR 36.8 dB · Grounded-SAM 2 mask"
+  },
+  {
+    "title": "Object: strawberries → oranges",
+    "video": "object_rabbit_oranges.mp4",
+    "caption": "instruction: “replace the strawberries with oranges” · CLIP text 32.4 · direction 0.38 · warp error 6.3 (original 5.6) · background PSNR 32.2 dB · attention mask"
+  },
+  {
+    "title": "Object: white fox → grey wolf",
+    "video": "object_fox_wolf.mp4",
+    "caption": "instruction: “replace the fox with a grey wolf” · CLIP text 23.9 · direction 0.28 · warp error 21.9 (original 11.1) · background PSNR 33.3 dB · attention mask"
+  },
+  {
+    "title": "Style: sunflower → Van Gogh",
+    "video": "style_sunflower_vangogh.mp4",
+    "caption": "instruction: “in the style of Van Gogh” · CLIP text 29.3 · direction 0.12 · warp error 23.9 (original 10.9)"
+  },
+  {
+    "title": "Style: rabbit → pokemon cartoon",
+    "video": "style_rabbit_pokemon.mp4",
+    "caption": "instruction: “make it a pokemon cartoon” · CLIP text 32.0 · direction 0.17 · warp error 7.4 (original 2.2)"
+  },
+  {
+    "title": "Style: surfer → ukiyo-e print",
+    "video": "style_surf_ukiyoe.mp4",
+    "caption": "instruction: “make it a ukiyo-e woodblock print” · CLIP text 28.8 · direction 0.17 · warp error 22.7 (original 15.2)"
+  },
+  {
+    "title": "Style: water lily → Monet",
+    "video": "style_lily_monet.mp4",
+    "caption": "instruction: “make it a Monet painting” · CLIP text 28.8 · direction 0.16 · warp error 12.8 (original 8.2)"
+  },
+  {
+    "title": "Style: flower → watercolor",
+    "video": "style_flower_watercolor.mp4",
+    "caption": "instruction: “make it a watercolor painting” · CLIP text 27.4 · direction 0.26 · warp error 11.6 (original 1.7)"
+  }
+]

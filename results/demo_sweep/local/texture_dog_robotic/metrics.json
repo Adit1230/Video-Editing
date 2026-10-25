@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.7490968704223633,
+  "runs": {
+    "texture_dog_robotic": {
+      "clip_text_target": 27.795028686523438,
+      "clip_directional": 0.15777912735939026,
+      "clip_frame_consistency": 92.24522709846497,
+      "warp_error": 22.57268075079677,
+      "background_psnr_db": 31.038329594981736,
+      "foreground_change": 26.253892887028915,
+      "foreground_hue_deg": 22.75194047394484
+    }
+  },
+  "source_clip_frame_consistency": 98.01865220069885,
+  "source_warp_error": 14.325924630501449,
+  "source_foreground_hue_deg": 22.77389151076849
+}

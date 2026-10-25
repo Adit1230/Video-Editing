@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.11496829986572266,
+  "runs": {
+    "object_squirrel_eggplant__sam": {
+      "clip_text_target": 30.452123284339905,
+      "clip_directional": 0.2649064064025879,
+      "clip_frame_consistency": 95.48803567886353,
+      "warp_error": 5.827438814413677,
+      "background_psnr_db": 36.847729200516554,
+      "foreground_change": 38.57951388331987,
+      "foreground_hue_deg": 19.05028908718381
+    }
+  },
+  "source_clip_frame_consistency": 98.27795624732971,
+  "source_warp_error": 5.032381923480381,
+  "source_foreground_hue_deg": 19.31178759590469
+}

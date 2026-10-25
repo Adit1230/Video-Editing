@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.7520108222961426,
+  "runs": {
+    "edit_20261025_093348": {
+      "clip_text_target": 28.909695148468018,
+      "clip_directional": 0.172762930393219,
+      "clip_frame_consistency": 94.86494660377502,
+      "warp_error": 13.351340262474682,
+      "background_psnr_db": 27.81182055563031,
+      "foreground_change": 36.31586488002229,
+      "foreground_hue_deg": 24.45713632808341
+    }
+  },
+  "source_clip_frame_consistency": 97.88655042648315,
+  "source_warp_error": 7.7489940258627446,
+  "source_foreground_hue_deg": 25.687696454864067
+}

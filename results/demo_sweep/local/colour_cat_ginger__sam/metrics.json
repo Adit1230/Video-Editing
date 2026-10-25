@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.11594390869140625,
+  "runs": {
+    "colour_cat_ginger__sam": {
+      "clip_text_target": 25.852733850479126,
+      "clip_directional": 0.11686491966247559,
+      "clip_frame_consistency": 93.81285905838013,
+      "warp_error": 10.612301689525761,
+      "background_psnr_db": 37.113206666613394,
+      "foreground_change": 29.37678169803569,
+      "foreground_hue_deg": 20.398772559885927
+    }
+  },
+  "source_clip_frame_consistency": 97.04920053482056,
+  "source_warp_error": 10.517062538858378,
+  "source_foreground_hue_deg": 23.0630588784454
+}

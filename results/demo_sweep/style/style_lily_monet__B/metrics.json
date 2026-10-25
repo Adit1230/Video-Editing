@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.0,
+  "runs": {
+    "style_lily_monet__B": {
+      "clip_text_target": 25.14617145061493,
+      "clip_directional": 0.11791738867759705,
+      "clip_frame_consistency": 97.61350154876709,
+      "warp_error": 9.024340282151249,
+      "background_psnr_db": 25.280868508441205,
+      "foreground_change": null,
+      "foreground_hue_deg": null
+    }
+  },
+  "source_clip_frame_consistency": 98.2577919960022,
+  "source_warp_error": 8.221210875411876,
+  "source_foreground_hue_deg": null
+}

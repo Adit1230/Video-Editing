@@ -1,0 +1,17 @@
+{
+  "shared_foreground_fraction": 0.3902587890625,
+  "runs": {
+    "texture_swan_crystal": {
+      "clip_text_target": 27.49810814857483,
+      "clip_directional": 0.32706934213638306,
+      "clip_frame_consistency": 95.10913491249084,
+      "warp_error": 23.341743522788896,
+      "background_psnr_db": 27.316591766720553,
+      "foreground_change": 40.53025905827853,
+      "foreground_hue_deg": 71.14181989021404
+    }
+  },
+  "source_clip_frame_consistency": 99.26007986068726,
+  "source_warp_error": 19.97239604734973,
+  "source_foreground_hue_deg": 65.43001575128157
+}
