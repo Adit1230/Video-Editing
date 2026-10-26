@@ -10,9 +10,9 @@ MODELS = {
 }
 EDIT_PROFILES = {
     'original': dict(self_replace=.5, cross_replace=.3, sparse_least_channel=640,
-        zero_temporal_bias=False, negative_prompt_inversion=False,
+        zero_temporal_bias=True, negative_prompt_inversion=False,
         mask_latent_blend=False, blend_fraction=1., blend_dilate=0, blend_feather=0),
-    'improved': dict(self_replace=.7, cross_replace=.5, sparse_least_channel=320,
+    'improved': dict(self_replace=.7, cross_replace=.5, sparse_least_channel=640,
         zero_temporal_bias=True, negative_prompt_inversion=True,
         mask_latent_blend=True, blend_fraction=1., blend_dilate=1, blend_feather=1),
 }
